@@ -1,16 +1,11 @@
-### Hi there 👋
+# Hello! 👋🏻 I'm Anish Kr Singh!
+- :wave: Handle @daxoron Across All Coding Platforms
+- 🔭  I'm A Sport Programmer and a Web Developer.
+- 🌱  I'm experienced in C/C++,HTML5, CSS3, JavaScript . Moreover in Bash, VCS, Python and Bootstrap.
+- 🌱  I'm 21 and have intermediate level of experience in mentioned technologies.
+- :writing_hand: You can reach me on email : daxoron.dev@gmail.com
 
-<!--
-**daxoron/daxoron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<a href="https://github.com/daxoron/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=daxoron&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anish's github stats" />
+</a>
