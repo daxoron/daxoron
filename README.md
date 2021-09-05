@@ -1,4 +1,4 @@
-# 👋 Hello  I'm Anish Kr Singh!
+# 👋 Hello I'm Anish!
 - Handle @daxoron Across All Coding Platforms
 - I'm A Sport Programmer and a Web Developer.
 - I'm experienced in C/C++, HTML5, CSS3, JavaScript . Moreover in Bash, VCS, Python and Bootstrap.
