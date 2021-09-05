@@ -3,7 +3,7 @@
 - I'm A Sport Programmer and a Web Developer.
 - I'm experienced in C/C++,HTML5, CSS3, JavaScript . Moreover in Bash, VCS, Python and Bootstrap.
 - I'm 21 and have intermediate level of experience in mentioned technologies.
-- :writing_hand: You can reach me on email : daxoron.dev@gmail.com
+- You can reach me on email : daxoron.dev@gmail.com
   
 # 🌱 My GitHub Stats!
 <hr>
