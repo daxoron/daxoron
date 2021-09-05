@@ -7,6 +7,6 @@
   
 # 🌱 My GitHub Stats!
 <hr>
-<a href="https://github.com/daxoron/github-readme-stats">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daxoron&show_icons=true&include_all_commits=true&theme=dark" alt="Anish's github stats" />
 </a>
