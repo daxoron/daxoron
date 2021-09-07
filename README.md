@@ -1,5 +1,5 @@
 # 👋 Hello I'm Anish!
-- Handle @daxoron Across All Coding Platforms
+- Handle @daxoron Across All Coding Platforms.
 - I'm A Sport Programmer and Web Developer.
 - I'm Experienced in C/C++, HTML5, CSS3, JavaScript . Moreover in Bash, VCS, Python and Bootstrap.
 - I'm 21 and have Intermediate Level of Experience in Mentioned Technologies.
