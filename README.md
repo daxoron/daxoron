@@ -1,4 +1,4 @@
-# 👋 Hello I'm Anish!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hello I'm Anish! 
 - Handle @daxoron Across All Coding Platforms.
 - I'm A Sport Programmer and Web Developer.
 - I'm Experienced in C/C++, HTML5, CSS3, JavaScript . Moreover in Bash, VCS, Python and Bootstrap.
