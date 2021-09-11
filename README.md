@@ -10,4 +10,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daxoron&show_icons=true&include_all_commits=true&theme=dark" alt="Anish's github stats" />
 </a>
 <br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=daxoron.daxoron)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=daxoron)
