@@ -2,9 +2,8 @@
 - Handle @daxoron Across All Coding Platforms.
 - I'm A Sport Programmer and Web Developer.
 <a href="https://twitter.com/daxoron" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/anish-kr-singh/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-- I'm Experienced in C/C++, HTML5, CSS3, JavaScript . 
-- I'm also comfortable with Bash, VCS, Python and Bootstrap.
-- I'm 21 and have Intermediate Level of Experience in Mentioned Technologies.
+- I'm Experienced in C/C++, HTML5, CSS3, Python. 
+- I'm also comfortable with Bash, VCS, JavaScript and Bootstrap.
 - You Can Reach Me on Email : daxoron.dev@gmail.com
 
 # 🌱 My GitHub Stats!
