@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px"> Hello I'm Anish! 
 - Handle @daxoron Across All Coding Platforms.
 - I'm A Sport Programmer and Web Developer.
-<a href="https://twitter.com/daxoron" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="75px" width="75px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/anish-kr-singh/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="75px" width="75px" alt="Twitter" align="right"></a>
+<a href="https://twitter.com/daxoron" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="90px" width="90px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/anish-kr-singh/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="90px" width="90px" alt="Twitter" align="right"></a>
 - I'm Experienced in C/C++, HTML5, CSS3, Python. 
 - I'm also comfortable with Bash, VCS, JavaScript and Bootstrap.
 - You Can Reach Me on Email : daxoron.dev@gmail.com
