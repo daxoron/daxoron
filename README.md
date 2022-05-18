@@ -6,9 +6,9 @@
 - You Can Reach Me on Email : daxoron.dev@gmail.com
 
 # 🌱 My GitHub Stats!
-<a href="#">
+<!-- <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daxoron&show_icons=true&include_all_commits=true&theme=dark" alt="Anish's github stats" />
-</a><br>
+</a><br> -->
 
 <p><br><a href="#">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=daxoron&theme=dark" />
